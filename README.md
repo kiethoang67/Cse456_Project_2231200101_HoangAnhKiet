@@ -2,6 +2,8 @@
 
 Đây là ứng dụng hỗ trợ học tập nhóm (Study Group) với đầy đủ Backend và Frontend. Dự án được cấu trúc chia thành hai phần riêng rệt và có khả năng triển khai linh hoạt bằng dịch vụ Docker, Render, và Vercel.
 
+**📺 Video Trình Bày (Presentation):** [Xem trên YouTube](https://youtu.be/DJiimJ2QoWc)
+
 ## 🚀 Các tính năng chính (Dự kiến)
 * **Quản lý nhóm học tập:** Hỗ trợ tạo, tham gia và quản lý các Study Group, phân quyền thành viên.
 * **Hỗ trợ thời gian thực (Real-time):** Tính năng tương tác, trò chuyện gửi thông báo trực tiếp nhờ Websocket.
