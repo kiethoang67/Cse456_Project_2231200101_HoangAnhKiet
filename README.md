@@ -77,3 +77,14 @@ Trang web mặc định sẽ được chạy tải ở địa chỉ: `http://loc
 ## 🌐 Triển khai Online (Production)
 * **Phía Backend:** Ứng dụng tích hợp sẵn luồng CI/CD nhỏ với tập tin cấu hình `render.yaml` - rất thích hợp để host lên các hệ thống PaaS như **Render**.
 * **Phía Frontend:** Có sẵn file file config `vercel.json` phục vụ cho việc deploy cực kỳ đơn giản lên host **Vercel** - Môi trường số 1 cho framework frontend.
+
+## 👥 Bảng Phân Công Nhiệm Vụ
+
+| STT | Thành viên | Nhiệm vụ |
+|:---:|------------|-----------|
+| 1 | Phạm Văn Huy | Làm slide |
+| 2 | Nguyễn Hoàng Hảo | Làm slide |
+| 3 | Nguyễn Thắng Lợi | Thiết kế project |
+| 4 | Đoàn Thắng Lợi | Thiết kế project |
+| 5 | Hoàng Anh Kiệt | Thiết kế project |
+| 6 | Nguyễn Gia Kiệt | Thuyết trình |
